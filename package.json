@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "prestart": "npm install",
@@ -18,5 +17,15 @@
     "koa-router": "^7.4.0",
     "koa2-cors": "^2.0.6",
     "nanoid": "^2.0.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mogushkov/re-thunk-back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mogushkov/re-thunk-back/issues"
+  },
+  "homepage": "https://github.com/Mogushkov/re-thunk-back#readme",
+  "description": ""
 }
